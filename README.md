@@ -7,5 +7,5 @@
 |2|789|12.12.12|NOT|
 
 
-[Картинка]([klever.jpg](https://ourreg.ru/2023/08/17/klever-poleznaja-kashka/))
+[Картинка][klever-1.jpg)
 
