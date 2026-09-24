@@ -5,4 +5,4 @@
 |0|123|10.10.10|DONE|
 |1|456|11.11.11|DONE|
 |2|789|12.12.12|NOT|
-!(Картинка)[https://ourreg.ru/wp-content/uploads/2023/08/klever-1.jpg]
+(Картинка)[https://ourreg.ru/wp-content/uploads/2023/08/klever-1.jpg]
