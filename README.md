@@ -5,5 +5,7 @@
 |0|123|10.10.10|DONE|
 |1|456|11.11.11|DONE|
 |2|789|12.12.12|NOT|
+
+
 [Картинка]([klever.jpg](https://ourreg.ru/2023/08/17/klever-poleznaja-kashka/))
 
